@@ -1,8 +1,7 @@
 WHAT IT IS
 ----------
-gst-usb-plugin provides an usbsink and usbsrc for gstreamer to allow
-embedded systems to create gstreamer pipelines between devices connected
-by usb connections.
+gst-plugin-anaglyph provides a simple video mixer to combine two different 
+visual perspectives into a single anaglyph video stream.
 
 HOW TO USE IT
 -------------
