@@ -9,7 +9,6 @@
 #include <gst/gst.h>
 #include <gst/base/gstcollectpads.h>
 #include "anaglyph.h"
-#include "gstanaglyphpad.h"
 
 G_BEGIN_DECLS
 
